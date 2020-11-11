@@ -8,6 +8,10 @@
     line-height: 1.42857 !important;
 }
 
+body {
+    font-family: Arial !important;
+}
+
 hr{
     border: 1px solid black !important;
 }
